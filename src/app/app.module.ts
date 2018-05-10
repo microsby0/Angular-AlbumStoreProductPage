@@ -12,7 +12,7 @@ import { ProductService } from './product.service';
   declarations: [
     AppComponent,
     ProductPageComponent,
-    ProductDescriptionComponent
+    ProductDescriptionComponent,
   ],
   imports: [
     BrowserModule,
